@@ -1,7 +1,7 @@
 // ex1.4 prints the count and text of lines that appear more than once in the
 // input. Also with the filename
 
-package exercise1_4
+package main
 
 import (
 	"bufio"
