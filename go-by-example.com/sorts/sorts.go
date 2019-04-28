@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	strs := []string{"d", "b", "e", "a", "c"}
+	strs := []string{"d", "b", "exercise1.5", "a", "c"}
 	sort.Strings(strs)
 	fmt.Println(strs)
 

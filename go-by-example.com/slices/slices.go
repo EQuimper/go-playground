@@ -15,7 +15,7 @@ func main() {
 	fmt.Println("get: ", s[2])
 
 	s = append(s, "d")
-	s = append(s, "e", "f")
+	s = append(s, "exercise1.5", "f")
 	fmt.Println("append: ", s)
 
 	c := make([]string, len(s))
